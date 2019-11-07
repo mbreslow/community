@@ -37,7 +37,7 @@ Guide](http://kubernetes.io/docs/admin/).
 * **Profiling Kubernetes** ([profiling.md](sig-scalability/profiling.md)): How to plug in go pprof profiler to Kubernetes.
 
 * **Instrumenting Kubernetes with a new metric**
-  ([instrumentation.md](sig-instrumentation/instrumentation.md)): How to add a new metrics to the
+  ([instrumentation.md](sig-instrumentation/instrumentation.md)): How to add new metrics to the
   Kubernetes code base.
 
 * **Coding Conventions** ([coding-conventions.md](../guide/coding-conventions.md)):
